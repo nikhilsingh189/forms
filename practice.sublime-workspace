@@ -1,0 +1,272 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"ta",
+				"task"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"tas",
+				"taskIndex"
+			],
+			[
+				"task",
+				"taskId"
+			],
+			[
+				"re",
+				"renderList"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"cl",
+				"cluster"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"l",
+				"linear"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/websites/style.css",
+		"/F/webpages/style.css",
+		"/F/webpages/index.html",
+		"/F/webpages/main.js",
+		"/F/webpages/mail.php",
+		"/F/webpages/login.html",
+		"/C/Users/Nikhil/Downloads/FAP/Module-1/Untitled1.ipynb",
+		"/C/Users/Nikhil/Downloads/FAP/Module-1/Module-1 Videos.ipynb",
+		"/F/websites/login.html",
+		"/F/websites/webpage1.html",
+		"/C/Users/Nikhil/Documents/Project-Todo list/new.html",
+		"/C/Users/Nikhil/Documents/Project-Todo list/todo.js",
+		"/C/Users/Nikhil/Documents/Project-Todo list/index.html",
+		"/C/Users/Nikhil/Documents/Project-Todo list/styles.css",
+		"/C/Users/Nikhil/Documents/Project-Todo list/Thinking.md",
+		"/C/Users/Nikhil/AppData/Roaming/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/C/Users/Nikhil/Documents/Project-Todo list/Chrome.sublime-build",
+		"/C/Users/Nikhil/Desktop/MINOR_PROJECT",
+		"/C/Users/Nikhil/AppData/Local/Temp/7zOCBBABB89/Minor_Project(StudentsPerformance).ipynb",
+		"/C/Users/Nikhil/AppData/Local/Temp/7zOC7B2E905/Minor_Project(StudentsPerformance).ipynb",
+		"/C/Users/Nikhil/AppData/Local/Temp/Rar$DIa4148.39228/MINOR_PROJECT.ipynb",
+		"/C/Users/Nikhil/Desktop/Untitled0.ipynb",
+		"/C/Users/Nikhil/Desktop/ExploratoryDataAnalysis-200520-125513.ipynb",
+		"/C/Users/Nikhil/Desktop/media-player/build.gradle",
+		"/C/Users/Nikhil/Desktop/media-player/app/build.gradle",
+		"/C/Users/Nikhil/Desktop/Naive-Bayes-Classfier-master/naive_bayes.py",
+		"/C/Users/Nikhil/Documents/ImmortalPlayer-master/app/build.gradle",
+		"/C/Users/Nikhil/Desktop/ImmortalPlayer-master/build.gradle",
+		"/C/Users/Nikhil/Desktop/MKVideoPlayer-master/build.gradle",
+		"/C/Users/Nikhil/Desktop/MKVideoPlayer-master/app/build.gradle",
+		"/C/Users/Nikhil/Documents/ImmortalPlayer-master/launch.xml",
+		"/C/Users/Nikhil/Documents/ImmortalPlayer-master/crash screen.xml",
+		"/C/Users/Nikhil/Documents/ImmortalPlayer-master/playback",
+		"/C/Users/Nikhil/Documents/ImmortalPlayer-master/exo controls.xml",
+		"/C/Users/Nikhil/Documents/ImmortalPlayer-master/build.gradle",
+		"/C/Users/Nikhil/Desktop/java/student6.java"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "practice.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
